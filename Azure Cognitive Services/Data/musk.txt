@@ -1,0 +1,93 @@
+WATTENBERG: Elon Musk, welcome to THINK TANK. We normally begin these sessions by asking you a little bit about background, where you were born, where you went to school, what you do and then we’ll just pick it up from there.
+MUSK: Well, I was born in South Africa, lived there until I was 17. Came to North America of my own accord, against my parent’s wishes. And was in Canada for a few years. I started school there which is where I met my wife.
+Transferred down to the University of Pennsylvania and got a degree in physics, degree in business at Wharton. Came out to California with the intent of doing a PHD in the material science and physics [unintelligible] with an eye towards using that as an energy storage unit for electric vehicles.
+I ended up deferring that graduate work to start a couple to start a couple of area companies, one of which people have heard about, such as Pay Pal.
+WATTENBERG: What is that? I’m sort of a techie ignoramus. What does Pay Pal do?
+MUSK: Pay Pal is the leading internet payment mechanism. It’s probably like an American Express of the Twenty First Century.
+WATTENBERG: What does it do that my American Express card doesn’t do? I mean, I can order things on the internet with a credit card, can’t I?
+MUSK: Yeah you can. It’s hard to explain Pay Pal by analogy since it’s really a new sort of entity.
+So, what that allows you to do is to send money to a business or person just by entering an email address. And the money easily transfers from your Pay Pal account to their Pay Pal account.
+If you have money in Pay Pal account, it will do an internal transfer, almost like a bank transfer. If you don’t have money in your account, it’ll draw from your credit card or draw from your real world bank --
+WATTENBERG: This was your idea.
+MUSK: There were two other people involved but I was responsible for many of the core idea.
+MUSK: I had just sold my first internet company which -- internet software primarily for media companies, allowing it to publish and manage contents on the web. I had also some special functionality. We also had map and directions functionality, yellow pages functionality, white pages.
+And it’s -- you know, when you went to a web site -- a web site like a Knight Ridder newspaper web site or New York Times you wouldn’t know you would actually be using our software, but not know -- you wouldn’t that you were using our software, but you would be.
+So, any way, we sold that to Compaq for about 300 million dollars in cash in -- early in 99. And after I left the company and started what was originally called X.com which later became Pay Pal.
+WATTENBERG: So, now we’re on this most remarkable factory floor of SpaceX. I felt I’ve been around. I’ve never quite seen anything like this. What are you doing here?
+MUSK: SpaceX is developing markets for taking satellites and people to orbit and beyond. So, we’ve finished development of and done a few test launches in our small rocket, which is the Falcon One, which you see part of over here.
+And we have in development a big rocket which is the Falcon 9. And that’s intended to service the space station, as well as deliver very large satellites to orbit.
+WATTENBERG: Did you design these or are they your concept?
+MUSK: Yes, I’m the chief designer in the company.
+WATTENBERG: -- designer and the businessman.
+MUSK: Yes.
+WATTENBERG: A good combination.
+MUSK: Yeah, I think it is a good combination.
+WATTENBERG: And as I understand it -- so you make your money on these by taking up other people’s satellites to --
+MUSK: Yes.
+WATTENBERG: Satellites are used for communications, business, military, whatever?
+MUSK: Yes.
+WATTENBERG: Now, you want to go to Mars?
+MUSK: I wouldn’t say -- I mean, I wouldn’t say it’s a personal interest of mine to go to Mars, but really my interest in going to Mars is from the standpoint of the extension of life beyond earth. To the best of my knowledge life exists only on earth. And this is the first time in the 4 billion year history of earth that it’s possible to extend life to another planet.
+WATTENBERG: So, you want to go to Mars -- I mean, the way they went to Mount Everest, because it’s there.
+MUSK: No, no, I think in the case of the sort of flippant remark by Hillary was -- it’s sort of a noteworthy achievement to have climbed the highest mountain on earth and all that [unintelligible] in the same way people want to break records of various kinds around the world, sailing journeys and that sort of thing.
+But this is not in that category, this is really much thicker, deeper philosophical underpinings better financed to why I think it’s important to extend life beyond earth.
+It goes to the nature of importance. How do you decide that one thing is important versus another. And the layers of history -- I guess a good way to distinguish whether something is important or not.
+If you look at the history of the earth upon a geological grand scale -- what are the really important milestones in the history of life itself. Forget about the parochial concerns of humanity.
+Then you say, well, certainly there was the advent of single cell life, multi cellular life, plants versus animals --
+WATTENBERG: invention of fire, the wheel, that kind of thing.
+MUSK: That’s actually a very [unintelligible] humanity. That’s actually [unintelligible] factor (speaking over each other) Those are only important in the context of humanity.
+WATTENBERG: Oh, I see, okay.
+MUSK: I’m talking about things that are important in the context of life itself. So, you know, there’s life extending -- life emerging from the oceans and moving up to land.
+There’s the advent of mammals, the devopment of consciousness. These are -- there’s maybe ten or twelve things that fed on to that scale.
+And then within a subset of man’s achievements would be things like fire, wheel, the internet and that sort of thing.
+WATTENBERG: Do you believe that there was an unmoved mover? Did something otherworldly start it all?
+MUSK: I think the universe can be explained by the laws of physics and does not require any supreme being --
+WATTENBERG: Let’s get on to some other things. Much of the space program and its origins of course was governmental.
+MUSK: Yes.
+WATTENBERG: I mean it was military, it was NASA -- is the basic future of the space program and space exploration -- should that be done governmentally or privately or both?
+MUSK: Probably both. I mean, yes, space exploration [unintelligible] it’s both a government and a private endeavor.
+WATTENBERG: Could you operate without the government help?
+MUSK: Yes.
+WATTENBERG: I mean, it’s reached a point where you can design your rockets and do things and you don’t need to --
+MUSK: Correct. We started with no government help. The government is a customer but we also have main commercial customers as well.
+WATTENBERG: Who’s your customer? Defense and NASA and --
+MUSK: Well, we have -- assuming NASA is probably our single biggest customer -- the Defense Department, particularly DARPA is a customer.
+But then we also have McDonald Detweiler, a Canadian company, a customer we recently signed up for this commercial geo [unintelligible] satellite launch contract with Avanti which is a -- the UK commercial satellite operator.
+WATTENBERG: Do you find yourself at a disadvantage or advantage dealing with these great big industrial behemoths, where you’re competitors are Boeing and people like that?
+MUSK: I think the advantage, because it’s very hard for those large companies to track the best engineers. They’re really not great environments to work in.
+So -- you know we’ve been very successful in recruiting the top people out of those organizations. And they’re just really inefficient -- cost inefficient.
+WATTENBERG: The bigger the more inefficient something is?
+[speaking over each other]
+WATTENBERG: That’s a pretty good rule isn’t it.
+MUSK: As a company grows and you get to be able to use division of labor and specialization of labor, far too many person increases.
+But once you reach a certain point where the communication inefficiency overwhelms the specialization of labor, then you actually get a declining – per employee
+WATTENBERG: How fast is SpaceX growing in terms of people?
+MUSK: About a 100 percent a year. But that won’t continue in the future. We may have 50 percent in the future --
+WATTENBERG: At what point are you worrying that you’re falling victim of this idea of being too large. Is that way off in the distance?
+MUSK: I think it’s pretty far off yeah. I think you know we’ll probably stabilize at maybe a thousand or two thousand. I think Boeing is like 100 thousand people.
+WATTENBERG: Just to jump around a little bit, another one of your very noteworthy entrepreneurial activities is a new electric car.
+MUSK: Yes.
+WATTENBERG: Will you tell us about that?
+MUSK: Sure -- and so I’m chairman and principal founder of Tesla, which -- Tesla motors, which is making a revolutionary electric sports car. It’s all electric, it has almost 250 miles range. It has acceleration which is less than four seconds to 60 miles an hour. And it’s about 100 thousand dollars, so it’s a compelling price for car of that performance.
+WATTENBERG: Will the price go down as the production goes up?
+MUSK: Well, the sports car will probably remain at that price point. But Tesla is developing a lower cost car, which is a sedan, it’s five passenger, four door sedan, quite large and it’s intended to be something that could be a family sedan or it can replace a small -- smallish SUV. It’s going to be in the 50 thousand dollar range. We’ll be producing 10 to 20 thousand of these a year.
+Then we’ve got Model which will be after that and that’ll be hopefully in the 30 to 35 thousand dollar range and we’ve got 100 to 200 thousand [unintelligible] volume.
+So, we try to do higher and higher volume and they become more and more affordable over time. The Tesla Roadster, the sports car, is really the beachhead of the technology. It’s the introductory product, allows us to refine the technology and make more affordable over time.
+WATTENBERG: What is the purpose of building an electric car? Can it ever be as economically competitive as a vehicle powered by fossil fuel?
+MUSK: Yes, actually I think the long term electric cars will be more economically competitive than the -- than the gasoline car. Also, the price of gasoline is going to rise over time given finite supplies and rapidly increasing demand, particularly from China and India, as we’ve seen.
+But in addition to the price of gas going up, the cost of electric transportation is going to go down, drive in part by companies like Tesla.
+WATTENBERG: What is the most efficient way to create the power to charge the batteries, to charge the engine in Tesla?
+MUSK: Sure -- well, first of all it should be said that the efficiency of an electric car -- the electric car by Tesla is so great that if you were to take a gallon of oil and you would put power -- use that oil in an electric power station and take the efficiency of that power station -- subtract the transmission losses [unintelligible] of the electric power lines -- subtract the charging losses. And it said how many miles do you get out of that gallon of oil versus refine that gallon of oil into gasoline and run an equivalent sized car, using that gallon of gasoline -- what you’ll find is the electric car gives you at least twice as much mileage.
+So, that’s called the well to wheel efficiency. We do the fully [unintelligible] efficiency of a particular mode of transport. What it comes down to -- the reason -- the primary reason for that is that a gasoline engine is typically around 17 or 18 percent efficient.
+So, the energy in that gallon of gasoline -- the [unintelligible] [speaking over each other]
+MUSK: Basically it’s roughly one part emission, four parts heat of the energy in that gallon of gasoline.
+But in comparison, the electric motor is a far more efficient device. The energy efficiency of electric motors is on the order of 90 percent. So that even after you take all those charging losses and all those other things into account, just have a fundamentally more efficient engine -- motor in the case of [unintelligible]
+But to answer your original question of what will charge -- we need the energy to charge the batteries for the cars and are we not simply extending the tail pipe to the power switch, so it’s a long tailpipe to the power station essentially.
+And the answer to that is -- well, first of all, electricity is the universal currency. You can generate electricity in many ways, including renewable ways such as solar power, wind, geothermal -- and in ways which are less damaging to the environment such as nuclear and -- and then even if you would generate energy with hydrocarbons such as coal or oil or natural gas, the energy efficiency of electric transportation is so much greater that you can still be twice as better off than you would otherwise be.
+WATTENBERG: Do you think we ought to be doing more to encourage the use of nuclear power in the United States. My understanding is that we have not built a new nuclear plant in about 25 years here.
+MUSK: Right. It’s true we’ve not built new nuclear plants in a couple decades. Although what most people don’t realize is that the existing nuclear plants have been massively upgraded. [Laughter]
+So, our percentage of nuclear power has actually not declined as much -- [speaking over each other]
+WATTENBERG: About 20 percent total.
+MUSK: Yeah, we should build more nuclear power plants. I think that’s a better way to generate energy than certainly a coal power plant or a natural gas power plant.
+Burning hydrocarbons -- I think people now recognize is a pretty bad thing. You know over time there’s a certain limit to the CO2 capacity of the atmosphere and the oceans.
+
